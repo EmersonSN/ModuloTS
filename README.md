@@ -1,0 +1,1 @@
+Neste repositorio irei guardar todos os estudos relacionado a typeScrip, apredendo agora, hoje dia 12/08/2021
