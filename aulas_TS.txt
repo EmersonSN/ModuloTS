@@ -1,0 +1,6 @@
+Compilar código TS = tsc src/scrip.ts --outDir public
+	tsc = typescript compiler
+	src/scrip.ts = onde está o arquivo a ser compilado
+	--outDir = fora do diretorio atual (pasta src)
+	public = dentro da pasta public
+	--noEmitOnError = não gerar se tiver erro
